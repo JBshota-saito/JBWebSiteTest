@@ -1285,6 +1285,17 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 
+.cid-s09jG5BlEY {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
+}
+.cid-s09jG5BlEY .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+
 .cid-s09jG5BlEY .timeline-text-content {
   padding: 2rem 2.5rem;
   background: #efefef;
